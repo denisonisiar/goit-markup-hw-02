@@ -86,12 +86,7 @@ body {
     text-align: center;
     color: #fff;
 } 
-.title-two {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
+
 .main-section {
     background: #2e2f42;
 }
@@ -109,7 +104,12 @@ body {
 .button:focus {
     background: #404bbf;
 }
-
+.title-section{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
 .strategy-item {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
