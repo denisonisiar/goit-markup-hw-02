@@ -104,7 +104,13 @@ body {
 .button:focus {
     background: #404bbf;
 }
-
+.title-section{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
 .strategy-item {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -136,7 +142,7 @@ body {
     text-transform: capitalize;
 }
 .team-list{
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 .team-name {
     font-family: "Roboto", sans-serif;
